@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MONK</string>
+    <string name="app_tag">"\"membor of \""</string>
+
+    <string name="about_app">It\'s time to be socially\nresponsible and fight against \nthis epedemic called Covid-19</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign in</string>
+    <string name="tc">T&amp;C</string>
+    <string name="create_profile">Create a profile</string>
+    <string name="welcome_monk">Welcome to Monk</string>
+    <string name="welcome_monk_desc">Complete your profile and help the\n community get more occurate data on\n fighting against the virus</string>
+    <string name="welcome_add_photo">Add photo</string>
+</resources>
+
